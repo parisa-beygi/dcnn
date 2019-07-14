@@ -1,0 +1,13 @@
+{
+"data_dir": "./data/patio",
+"data_processed_file": "general_data",
+"data_file_name": "reviews_Patio_Lawn_and_Garden_5.json",
+"compressed_data_file_name": "reviews_Patio_Lawn_and_Garden_5.json.gz",
+"data_general_processed_dir": "/media/hdd/parisa/dcnn/DeepCoNN/data/patio/general_data",
+"data_name": "patio",
+"save_padded_text": 0,
+"data_part_name": "train",
+"temp_data_folder": "segmented_data",
+"shuffle_turn": 0
+
+}
