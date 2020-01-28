@@ -2,11 +2,8 @@
 Data pre process
 
 @author:
-Chong Chen (cstchenc@163.com)
+Parisa
 
-@ created:
-25/8/2017
-@references:
 '''
 import gzip
 import os
