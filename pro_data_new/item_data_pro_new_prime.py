@@ -1,10 +1,7 @@
 '''
 Data pre process part2
 @author:
-Chong Chen (cstchenc@163.com)
-
-@ created:
-27/8/2017
+Parisa
 '''
 import codecs
 import json
